@@ -1,0 +1,9 @@
+{
+  "scanSettings": {
+    "versioning": {
+      "sbt": "2.0.1",
+      "scala": ">=2.13 <3",
+      "java": ">=17 <22"
+    }
+  }
+}
